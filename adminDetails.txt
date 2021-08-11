@@ -1,0 +1,8 @@
+Admin Login Info
+
+user: admin
+password: Test@123
+
+
+Follow my Github Profile.
+Link: https://github.com/HrithikMojumdar
